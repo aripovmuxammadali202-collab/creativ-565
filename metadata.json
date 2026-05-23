@@ -1,0 +1,6 @@
+{
+  "name": "Najot Ta'lim Book",
+  "description": "Najot Ta'lim o'quv markazi uchun maxsus elektron va audio kitoblar, xotira o'yinlari va virtual balans tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
